@@ -1,0 +1,39 @@
+h2{
+    color:crimson;
+    background-color: yellow;
+}
+
+h3{
+    color:rgb(177, 221, 54);
+    background-color: rgb(173, 15, 15);
+    
+}
+
+p{
+    color: chocolate;
+    background-color: aqua;
+}
+
+#myparagraph{
+    color: bisque;
+}
+
+.firstdiv{
+    background-color: blueviolet;
+}
+
+div {
+    background-color: black;
+}
+
+span {
+    background-color: blue;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h4{
+    color: aliceblue;
+}
